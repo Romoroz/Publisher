@@ -1,0 +1,160 @@
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.Form1.resources
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.Properties.Resources.resources
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.О_программе.resources
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.csproj.GenerateResource.cache
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\RdlCompile.cache
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\RdlCompile.compiled
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\EnvDTE.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\EnvDTE80.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\stdole.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.csproj.CoreCompileInputs.cache
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.exe
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.pdb
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\ИздательствоData.Designer.cs
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\ИздательствоData.xsc
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\ИздательствоData.xsd
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\ИздательствоData.xss
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Издательство.accdb
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Издательство.exe.config
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Издательство.exe
+C:\Users\Паша\source\repos\Издательство\Издательство\bin\Debug\Издательство.pdb
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.csproj.CopyComplete
+C:\Users\Паша\source\repos\Издательство\Издательство\obj\Debug\Издательство.csprojAssemblyReference.cache
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\ИздательствоData.Designer.cs
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\ИздательствоData.xsc
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\ИздательствоData.xsd
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\ИздательствоData.xss
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Издательство.accdb
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Издательство.exe.config
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Издательство.exe
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Издательство.pdb
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\EnvDTE.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\EnvDTE80.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\stdole.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\bin\Debug\Microsoft.MSXML.dll
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.Form1.resources
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.Properties.Resources.resources
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.О_программе.resources
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.csproj.GenerateResource.cache
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\RdlCompile.cache
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\RdlCompile.compiled
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.csproj.CoreCompileInputs.cache
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.csproj.CopyComplete
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.exe
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.pdb
+D:\Павел\Учеба\П-41\БД и СУБД\КП Кобяк\Издательство\Издательство\obj\Debug\Издательство.csprojAssemblyReference.cache
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\ИздательствоData.Designer.cs
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\ИздательствоData.xsc
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\ИздательствоData.xsd
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\ИздательствоData.xss
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Издательство.accdb
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Издательство.exe.config
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Издательство.exe
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Издательство.pdb
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\EnvDTE.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\EnvDTE80.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\stdole.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\bin\Debug\Microsoft.MSXML.dll
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.csprojAssemblyReference.cache
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.Form1.resources
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.Properties.Resources.resources
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.О_программе.resources
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.csproj.GenerateResource.cache
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\RdlCompile.cache
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\RdlCompile.compiled
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.csproj.CoreCompileInputs.cache
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.csproj.CopyComplete
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.exe
+D:\Павел\Учеба\П-41\БД и СУБД\Издательство\Издательство\obj\Debug\Издательство.pdb
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\ИздательствоData.Designer.cs
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\ИздательствоData.xsc
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\ИздательствоData.xsd
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\ИздательствоData.xss
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Издательство.accdb
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Издательство.exe.config
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Издательство.exe
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Издательство.pdb
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\EnvDTE.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\EnvDTE80.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\stdole.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\bin\Debug\Microsoft.MSXML.dll
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.csprojAssemblyReference.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.Form1.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.Properties.Resources.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.О_программе.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.csproj.GenerateResource.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\RdlCompile.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\RdlCompile.compiled
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.csproj.CoreCompileInputs.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.csproj.CopyComplete
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.exe
+D:\Павел\Учеба\Проекты с учебы на C#\Издательство\Издательство\obj\Debug\Издательство.pdb
